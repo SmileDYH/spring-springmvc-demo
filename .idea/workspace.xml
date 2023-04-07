@@ -6,7 +6,24 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f843ce27-62e5-4818-a22b-4494b4c52d16" name="Default Changelist" comment="" />
+    <list default="true" id="f843ce27-62e5-4818-a22b-4494b4c52d16" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dyh/spring/bean/DemoBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dyh/spring/bean/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dyh/spring/config/JavaConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dyh/spring/main/JavaConfigTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dyh/spring/main/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dyh/spring/main/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springmvc-demo-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springmvc-demo-1.0-SNAPSHOT/WEB-INF/jsp/hello.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springmvc-demo-1.0-SNAPSHOT/WEB-INF/jsp/success.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springmvc-demo-1.0-SNAPSHOT/WEB-INF/spring-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springmvc-demo-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springmvc-demo-1.0-SNAPSHOT/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springmvc-demo-1.0-SNAPSHOT/index.jsp" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,12 +34,15 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Jsp File" />
         <option value="spring-beans.schema" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -51,11 +71,13 @@
     </option>
   </component>
   <component name="ProjectId" id="2HI8gM9w4I0DPvGF3ULML9QbVSw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-demo" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -86,7 +108,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 8.0.36">
+  <component name="RunManager" selected="Application.JavaConfigTest">
+    <configuration name="JavaConfigTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dyh.spring.main.JavaConfigTest" />
+      <module name="springmvc-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dyh.spring.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dyh.spring.main.MyTest" />
       <module name="springmvc-demo" />
@@ -176,10 +211,12 @@
     </configuration>
     <list>
       <item itemvalue="Application.MyTest" />
+      <item itemvalue="Application.JavaConfigTest" />
       <item itemvalue="Tomcat Server.Tomcat 8.0.36" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaConfigTest" />
         <item itemvalue="Application.MyTest" />
       </list>
     </recent_temporary>
@@ -196,11 +233,31 @@
       <updated>1667961347792</updated>
       <workItem from="1667961351331" duration="11904000" />
       <workItem from="1668145852656" duration="151000" />
-      <workItem from="1668146239025" duration="378000" />
+      <workItem from="1668146239025" duration="1850000" />
+      <workItem from="1668149853274" duration="790000" />
+      <workItem from="1668407945450" duration="620000" />
+      <workItem from="1669793608998" duration="2654000" />
+      <workItem from="1671534947780" duration="124000" />
+      <workItem from="1672989091569" duration="100000" />
+      <workItem from="1674025934689" duration="232000" />
+      <workItem from="1680857389883" duration="386000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

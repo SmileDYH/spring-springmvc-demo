@@ -10,7 +10,7 @@ public class MyTest {
         ApplicationContext context =
                 new ClassPathXmlApplicationContext("classpath:application.xml");
         //我们的对象都在spring中管理，如果要使用，直接取出来即可。
-        Hello hello = (Hello)context.getBean("hello");
+        Hello hello = (Hello) context.getBean("hello");
         System.out.println(hello);
         System.out.println("hello");
     }
